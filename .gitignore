@@ -7,3 +7,5 @@ build
 local.properties
 captures
 gradle
+gradlew
+gradlew.bat
