@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".GuidelineActivity" />
+        <activity android:name=".AutoConnectActivity" />
+        <activity android:name=".InferenceActivity"/>
     </application>
 
 </manifest>
